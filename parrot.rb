@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def greeting(name = "Ruby programmer")
-  puts "Hello, #{name}"
+def parrot(phrase = "Squawk!")
+  puts "#{name}"
 end
